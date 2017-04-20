@@ -1,5 +1,5 @@
 # Use this image as a base
-FROM frekele/gradle:3.0-jdk8
+FROM frekele/gradle:3.5-jdk8
 MAINTAINER EURA NOVA <info@euranova.eu>
 
 # In case someone loses the Dockerfile

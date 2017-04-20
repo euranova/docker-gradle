@@ -1,5 +1,5 @@
-FROM frekele/gradle:3.0-jdk8
-MAINTAINER @toch
+FROM frekele/gradle:3.5-jdk8
+MAINTAINER EURA NOVA <info@euranova.eu>
 
 # In case someone loses the Dockerfile
 RUN rm -rf /etc/Dockerfile
